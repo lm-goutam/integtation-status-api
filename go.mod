@@ -10,4 +10,5 @@ require (
 require (
 	github.com/gookit/config v1.1.0 // indirect
 	github.com/imdario/mergo v0.3.6 // indirect
+	github.com/rs/cors v1.8.3
 )
